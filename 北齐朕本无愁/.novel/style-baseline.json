@@ -1,0 +1,61 @@
+{
+  "book": "北齐朕本无愁",
+  "chapters": 10,
+  "baseline": {
+    "chapters": 10,
+    "dims": {
+      "syntax": {
+        "mu": 2.49,
+        "sigma": 0.4,
+        "tolerance": 24
+      },
+      "modifier": {
+        "mu": 35.2,
+        "sigma": 3.13,
+        "tolerance": 13
+      },
+      "abstract": {
+        "mu": 0.98,
+        "sigma": 0.62,
+        "tolerance": 94
+      },
+      "action": {
+        "mu": 71.02,
+        "sigma": 5.63,
+        "tolerance": 12
+      },
+      "hedging": {
+        "mu": 1.08,
+        "sigma": 0.43,
+        "tolerance": 60
+      },
+      "blank": {
+        "mu": 2.05,
+        "sigma": 0.8,
+        "tolerance": 58
+      }
+    },
+    "mood": {
+      "axes": {
+        "heroic": 0,
+        "mystery": 0.03,
+        "dread": 0,
+        "oppressive": 0.2,
+        "sweet": 0.03,
+        "tender": 0.03,
+        "grief": 2.22,
+        "humor": 0,
+        "thrill": 0,
+        "arcane": 0,
+        "grim": 0.03,
+        "desolate": 0.06
+      },
+      "top": [
+        "grief",
+        "oppressive",
+        "desolate"
+      ]
+    }
+  },
+  "builtAt": "2026-10-04T12:45:29.759Z"
+}

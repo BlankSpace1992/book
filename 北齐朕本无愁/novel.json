@@ -1,0 +1,816 @@
+{
+  "title": "北齐：朕本无愁",
+  "genre": "历史",
+  "logline": "一个知道北齐必亡的少年皇帝，必须一边扮演史书上那个无可救药的「无愁天子」，一边把史书上会被自己亲手杀掉的每一个名将救回来——因为他唯一的战略纵深，就是让所有人都继续轻视他。",
+  "sessions": [
+    "session-63f1871b-4f8b-4d7f-9cf6-52f8c312be81"
+  ],
+  "stage": "revision",
+  "phases": {
+    "writing": {
+      "status": "in_progress",
+      "at": "2026-10-03T16:27:56.086Z"
+    },
+    "revision": {
+      "status": "in_progress",
+      "at": "2026-10-04T12:38:07.340Z"
+    }
+  },
+  "createdAt": "2026-10-03T16:25:27.102Z",
+  "updatedAt": "2026-10-04T12:43:38.760Z",
+  "approvals": {
+    "outline": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true
+    }
+  },
+  "chapters": {
+    "1": {
+      "title": "第 1 章",
+      "versions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第1章-乾寿堂-v1.md"
+        },
+        {
+          "version": 2,
+          "file": "北齐朕本无愁/正文/第1章-乾寿堂-v2.md"
+        },
+        {
+          "version": 3,
+          "file": "北齐朕本无愁/正文/第1章-乾寿堂-v3.md"
+        },
+        {
+          "version": 4,
+          "file": "北齐朕本无愁/正文/第1章-第-1-章-v4.md"
+        },
+        {
+          "version": 5,
+          "file": "北齐朕本无愁/正文/第1章-第-1-章-v5.md"
+        }
+      ],
+      "latest": 5,
+      "path": "北齐朕本无愁/正文/第1章-第-1-章-v5.md",
+      "chars": 3311,
+      "summary": "568年十二月辛未夜，太上皇高湛崩于邺宫乾寿堂，只留一句“勿负我也”给和士开，一句交代也没留给十二岁的儿子。主角在此刻入体，翻检用印簿册时发现两道已用玺、压着未发的调令——征博陵王赴行在、罢赵郡王太尉，而这些名字他都在史书上见过。",
+      "gate": {
+        "at": "2026-10-04T12:43:38.760Z",
+        "coverage": 14.3,
+        "drift": 0,
+        "missedScenes": [
+          "药味与烛火",
+          "三十二岁的太上皇",
+          "主角在身体里的第一次落点",
+          "一次闭眼的对照",
+          "更漏与钟声",
+          "章末"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角当场",
+          "太后开口"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T12:44:41.988Z"
+    },
+    "2": {
+      "title": "空白遗嘱",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第2章-空白遗嘱-v1.md"
+        },
+        {
+          "version": 2,
+          "file": "北齐朕本无愁/正文/第2章-空白遗嘱-v2.md"
+        },
+        {
+          "version": 3,
+          "file": "北齐朕本无愁/正文/第2章-空白遗嘱-v3.md"
+        },
+        {
+          "version": 4,
+          "file": "北齐朕本无愁/正文/第2章-空白遗嘱-v4.md"
+        }
+      ],
+      "latest": 4,
+      "path": "北齐朕本无愁/正文/第2章-空白遗嘱-v4.md",
+      "chars": 3618,
+      "summary": "天亮前的几个时辰里，主角第一次以皇帝身份处置丧仪：亲眼看父亲净身覆面，在太常卿追问遗诏时说出“没有”，只能自己给出说法；陆令萱进堂安排太后回内殿，权柄可见；和士开半个时辰内把一屋慌乱变成能运转的衙署。他终于把那道已经用印、压着未发的处决令按住——先不发。",
+      "gate": {
+        "at": "2026-10-04T12:43:00.286Z",
+        "coverage": 75,
+        "drift": 0,
+        "missedScenes": [
+          "一句交代也没留",
+          "父亲对臣子说了什么，对儿子什么也没说"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角",
+          "太后开口",
+          "主角解释"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T12:43:00.286Z"
+    },
+    "3": {
+      "title": "玺",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第3章-玺-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第3章-玺-v1.md",
+      "chars": 2542,
+      "summary": "发丧第一日，主角在含章殿偏阁查那两道处决令：程序走完了五道手，请印底子却是空白的，经手人不署；内参只答得出「多是从西边递进来的」。他把两页空白底子换到簿册之上，又抄了两份抄件，一份不署名送尚书省，一份送晋阳。",
+      "gate": {
+        "at": "2026-10-03T16:40:38.412Z",
+        "coverage": 44.4,
+        "drift": 0,
+        "missedScenes": [
+          "太庙告丧",
+          "一个人独处",
+          "太后的门",
+          "下午的日常",
+          "章末"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-03T16:40:38.412Z"
+    },
+    "4": {
+      "title": "大雾之前",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第4章-大雾之前-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第4章-大雾之前-v1.md",
+      "chars": 2493,
+      "summary": "夜守灵次，主角把三件事摆在案上——已发出的处决令、空白的请印底子、父亲留给臣子的那句话——推出结论：他救不下两个，只能救一个。他从丧仪名册里找到宗正卿卧病、宗正寺空缺这个缺口，决定让高睿以「替皇帝办丧事」的名义站到台前。四更时刘桃枝来添香，他没有用这个人。",
+      "gate": {
+        "at": "2026-10-03T16:41:17.710Z",
+        "coverage": 50,
+        "drift": 0,
+        "missedScenes": [
+          "认命的算术",
+          "关键推理二（本章转折）",
+          "找理由",
+          "一把刀",
+          "夜里的一个细节"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-03T16:41:17.710Z"
+    },
+    "5": {
+      "title": "第一个考他的人",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第5章-第一个考他的人-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第5章-第一个考他的人-v1.md",
+      "chars": 2632,
+      "summary": "高睿三日驿道赶回邺城，不换朝服先来见驾，开口便问「是为先帝的丧事，还是为臣的事」。主角以宗正卿卧病、宗正寺无人办事为由，命他替皇帝主持丧仪，并把「这道命你自己去要，还是要朕去要」这句话递给他。高睿领命，同时索要一项权力：这几日凡出自内殿的文书，他要先过一遍。他临走时留下一句——定州驿上，昨日有一骑从邺城往北去了。",
+      "gate": {
+        "at": "2026-10-03T16:41:41.704Z",
+        "coverage": 41.7,
+        "drift": 0,
+        "missedScenes": [
+          "抵达",
+          "仪容的落差",
+          "沉默",
+          "高睿的第二问",
+          "主角的承认与不承认",
+          "应下",
+          "纸上那两个字"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-03T16:41:41.704Z"
+    },
+    "6": {
+      "title": "那道令，我不知道",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第6章-那道令，我不知道-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第6章-那道令，我不知道-v1.md",
+      "chars": 3439,
+      "summary": "国丧后第一次大朝。主角不提救人，只提宗正卿卧病、宗正寺无人办事，请以赵郡王暂领。太后当朝拦了一句「凡事问过我再定」。高睿出班请命：凡诏令涉及宗室者先送宗正寺核过。主角先准其请，再命当廷呈上用印簿册，说出全书第一句杀招——请印底子是空的，底子空，令便不算令；那两道令压着不发。",
+      "gate": {
+        "at": "2026-10-04T00:14:41.135Z",
+        "coverage": 25,
+        "drift": 0,
+        "missedScenes": [
+          "朝会的场面",
+          "太后的出现",
+          "和士开站班",
+          "主角自己提出来的那一件",
+          "殿上的反应",
+          "殿上的僵住",
+          "主角的落子",
+          "太后的第二句话",
+          "章末"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角",
+          "主角解释",
+          "任何人当场"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T00:14:41.136Z"
+    },
+    "7": {
+      "title": "太姬",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第7章-太姬-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第7章-太姬-v1.md",
+      "chars": 3486,
+      "summary": "散朝后太后在内殿单独召见主角，反复追问「赵郡王是你自己想的，还是有人教你的」——她在找那个站在儿子身后的人。主角只给一半实话。门外他听见陆令萱一句家常话就替太后定了回命妇的事。下午和士开奏事，报出上驿三日、次驿四日、两等分账；主角由此推出另有一条快于驿马的路。他以查马料账为名派人去查十日内发往定州的文书。",
+      "gate": {
+        "at": "2026-10-04T00:15:44.241Z",
+        "coverage": 40,
+        "drift": 0,
+        "missedScenes": [
+          "内殿的路",
+          "主角给一半实话",
+          "陆令萱的进门",
+          "三日与四日",
+          "主角的误导出招",
+          "章末"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角",
+          "任何人"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T00:15:44.241Z"
+    },
+    "8": {
+      "title": "斛律",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第8章-斛律-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第8章-斛律-v1.md",
+      "chars": 2556,
+      "summary": "皇后按礼来问安，只带两个宫女。她第一句说的是父亲昨日有表到邺，第二句算的是上表的日期，第三句问的是那道表走哪一驿——她记住了父亲一向走次驿。临走时她说「臣妾若有什么该知道的，请陛下让臣妾知道」。主角只答「朕记着」。她走后，他翻出斛律家的名籍，看见「一门一皇后、二太子妃、三侯四将、三尚公主」压在一页纸上的那种挤。",
+      "gate": {
+        "at": "2026-10-04T00:16:15.656Z",
+        "coverage": 58.3,
+        "drift": 0,
+        "missedScenes": [
+          "她来的方式",
+          "见面",
+          "沉默与观察",
+          "一个真正的细节",
+          "章末"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T00:16:15.656Z"
+    },
+    "9": {
+      "title": "三贵未成",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第9章-三贵未成-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第9章-三贵未成-v1.md",
+      "chars": 2775,
+      "summary": "太仓缺一名管草料的署吏，尚书省报了两个候选人。主角不先选人，先把两份卷子上的保状摊开找署名：一张牵出高阿那肱，一张牵出姓骆的商户，一张只有韩长鸾部下的一个司马。他问了一句「往年是谁举荐的」，回话快得反常，报了一整张纸。傍晚他在廊口第一次撞见韩长鸾。夜里他画了三条纵线，只连了其中两条，烧了纸。",
+      "gate": {
+        "at": "2026-10-04T00:17:05.105Z",
+        "coverage": 60,
+        "drift": 0,
+        "missedScenes": [
+          "他先做的不是选",
+          "对方的反应",
+          "韩长鸾的登场",
+          "主角的判断"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T00:17:05.105Z"
+    },
+    "10": {
+      "title": "落雕都督",
+      "versions": [
+        1
+      ],
+      "files": [
+        {
+          "version": 1,
+          "file": "北齐朕本无愁/正文/第10章-落雕都督-v1.md"
+        }
+      ],
+      "latest": 1,
+      "path": "北齐朕本无愁/正文/第10章-落雕都督-v1.md",
+      "chars": 2362,
+      "summary": "左丞相斛律光从晋阳回邺奔丧，入宫不先见驾、先在柏树道外下马步行，礼一步不省。他问皇帝这几日睡在哪里，然后直接报晋阳军实：册载六万，实点四万三千，马一万一千匹，冬衣缺口七千领，河北秋税一半折钱。说到晋阳那一片田时他把话绕开了。主角没有追问，只让人去查那一片田的归属，查回来三个字：御赐。",
+      "gate": {
+        "at": "2026-10-04T00:17:27.070Z",
+        "coverage": 44.4,
+        "drift": 0,
+        "missedScenes": [
+          "斛律光来的方式",
+          "身形与气象",
+          "治军的细节",
+          "主角的应对",
+          "章末"
+        ],
+        "bannedHits": [],
+        "requirements": [],
+        "conditional": [
+          "主角"
+        ],
+        "passed": false
+      },
+      "updatedAt": "2026-10-04T00:17:27.070Z"
+    }
+  },
+  "cast": [
+    "斛律氏",
+    "高纬",
+    "和士开",
+    "高睿",
+    "刘桃枝",
+    "武成帝高湛",
+    "胡太后",
+    "高俨",
+    "陆令萱",
+    "高济",
+    "斛律羡"
+  ],
+  "proposals": [
+    {
+      "id": "P1-muslwgeo-fsac",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-03T16:28:39.312Z",
+      "discardedAt": "2026-10-04T01:24:47.901Z"
+    },
+    {
+      "id": "P1-musm6d2w-i57g",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-03T16:36:21.560Z",
+      "discardedAt": "2026-10-04T01:24:49.009Z"
+    },
+    {
+      "id": "P1-musm8j06-nn66",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-03T16:38:02.550Z",
+      "discardedAt": "2026-10-04T01:24:49.818Z"
+    },
+    {
+      "id": "P3-musmc7cp-13fg",
+      "chapter": 3,
+      "status": "pending",
+      "createdAt": "2026-10-03T16:40:54.073Z"
+    },
+    {
+      "id": "P5-mut2iv7n-xpdc",
+      "chapter": 5,
+      "status": "pending",
+      "createdAt": "2026-10-04T00:13:58.787Z"
+    },
+    {
+      "id": "P4-mut2k2oq-66cq",
+      "chapter": 4,
+      "status": "pending",
+      "createdAt": "2026-10-04T00:14:55.130Z"
+    },
+    {
+      "id": "P1-mut3xpm3-euuc",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T00:53:30.987Z",
+      "discardedAt": "2026-10-04T01:24:56.725Z"
+    },
+    {
+      "id": "P1-mut3ztnp-09o0",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T00:55:09.541Z",
+      "discardedAt": "2026-10-04T01:24:57.566Z"
+    },
+    {
+      "id": "P1-mut4jdmj-6x77",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:10:21.883Z",
+      "discardedAt": "2026-10-04T01:24:58.384Z"
+    },
+    {
+      "id": "P1-mut4jqoh-r9j3",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:10:38.801Z",
+      "discardedAt": "2026-10-04T01:24:59.304Z"
+    },
+    {
+      "id": "P1-mut4ohs1-jseq",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:14:20.545Z",
+      "discardedAt": "2026-10-04T01:25:00.270Z"
+    },
+    {
+      "id": "P1-mut4otzu-dvha",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:14:36.378Z",
+      "discardedAt": "2026-10-04T01:24:41.963Z"
+    },
+    {
+      "id": "P1-mut4qyq5-eio1",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:16:15.821Z",
+      "discardedAt": "2026-10-04T03:58:44.755Z"
+    },
+    {
+      "id": "P1-mut55ruk-u6al",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:27:46.748Z",
+      "discardedAt": "2026-10-04T03:44:04.547Z"
+    },
+    {
+      "id": "P1-mut57f4y-wcj4",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T01:29:03.586Z",
+      "discardedAt": "2026-10-04T03:58:41.403Z"
+    },
+    {
+      "id": "P1-mutaet03-wf8e",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T03:54:46.227Z",
+      "discardedAt": "2026-10-04T04:46:00.519Z"
+    },
+    {
+      "id": "P1-mutc79x1-02l0",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T04:44:54.133Z",
+      "discardedAt": "2026-10-04T05:08:38.493Z"
+    },
+    {
+      "id": "P1-mutca9qk-qs0c",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T04:47:13.868Z",
+      "discardedAt": "2026-10-04T05:08:35.561Z"
+    },
+    {
+      "id": "P1-mutcetpn-ilyd",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T04:50:46.379Z",
+      "discardedAt": "2026-10-04T05:08:33.353Z"
+    },
+    {
+      "id": "P1-mutcfqjm-fdf3",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T04:51:28.930Z",
+      "discardedAt": "2026-10-04T05:08:30.887Z"
+    },
+    {
+      "id": "P1-mutck2rg-lqr7",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T04:54:51.388Z",
+      "discardedAt": "2026-10-04T05:08:28.467Z"
+    },
+    {
+      "id": "P1-mutckfou-jl4c",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T04:55:08.142Z",
+      "discardedAt": "2026-10-04T05:08:26.029Z"
+    },
+    {
+      "id": "P1-mutcxwye-x297",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:05:37.046Z",
+      "discardedAt": "2026-10-04T05:08:23.463Z"
+    },
+    {
+      "id": "P1-mutcycpi-dzfl",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:05:57.462Z",
+      "discardedAt": "2026-10-04T05:08:20.172Z"
+    },
+    {
+      "id": "P1-mutcyrb6-m8wo",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:06:16.386Z",
+      "discardedAt": "2026-10-04T05:08:16.932Z"
+    },
+    {
+      "id": "P1-mutd0gbb-gdh2",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:07:35.447Z",
+      "discardedAt": "2026-10-04T05:12:13.540Z"
+    },
+    {
+      "id": "P1-mutd4iua-lbwt",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:10:45.346Z",
+      "discardedAt": "2026-10-04T05:12:10.797Z"
+    },
+    {
+      "id": "P1-mutd50gf-fhfj",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:11:08.175Z",
+      "discardedAt": "2026-10-04T05:12:08.121Z"
+    },
+    {
+      "id": "P1-mutd5dpq-9rmm",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:11:25.358Z",
+      "discardedAt": "2026-10-04T05:12:04.974Z"
+    },
+    {
+      "id": "P1-mutd5pp7-pvmt",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:11:40.891Z",
+      "discardedAt": "2026-10-04T05:13:42.004Z"
+    },
+    {
+      "id": "P1-mutd7buz-m36o",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:12:56.267Z",
+      "discardedAt": "2026-10-04T05:13:40.420Z"
+    },
+    {
+      "id": "P1-mutd7oxo-xhc5",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:13:13.212Z",
+      "discardedAt": "2026-10-04T05:28:05.775Z"
+    },
+    {
+      "id": "P1-mutdgv9n-9xw3",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:20:21.323Z",
+      "discardedAt": "2026-10-04T05:28:02.496Z"
+    },
+    {
+      "id": "P1-mutdhctm-lfc4",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:20:44.074Z",
+      "discardedAt": "2026-10-04T05:28:00.958Z"
+    },
+    {
+      "id": "P1-mutdht90-zaq1",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:21:05.364Z",
+      "discardedAt": "2026-10-04T05:27:59.057Z"
+    },
+    {
+      "id": "P1-mutdky02-t9bk",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:23:31.490Z",
+      "discardedAt": "2026-10-04T05:27:57.137Z"
+    },
+    {
+      "id": "P1-mutdohjn-c50h",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:26:16.787Z",
+      "discardedAt": "2026-10-04T05:27:53.681Z"
+    },
+    {
+      "id": "P1-mutdpvvr-5j9y",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:27:22.023Z",
+      "discardedAt": "2026-10-04T05:33:51.738Z"
+    },
+    {
+      "id": "P1-mutds4vg-h78m",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:29:06.988Z",
+      "discardedAt": "2026-10-04T05:33:52.689Z"
+    },
+    {
+      "id": "P1-mutdt4g8-vxdq",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:29:53.096Z",
+      "discardedAt": "2026-10-04T05:33:53.917Z"
+    },
+    {
+      "id": "P1-mutdurnh-dzip",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:31:09.821Z",
+      "discardedAt": "2026-10-04T05:34:53.912Z"
+    },
+    {
+      "id": "P1-mutdxj2w-ils0",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:33:18.680Z",
+      "discardedAt": "2026-10-04T05:39:05.940Z"
+    },
+    {
+      "id": "P1-mute46ba-9gqa",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:38:28.726Z",
+      "discardedAt": "2026-10-04T05:42:18.850Z"
+    },
+    {
+      "id": "P1-mute7spz-ui7k",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T05:41:17.735Z",
+      "discardedAt": "2026-10-04T09:11:57.873Z"
+    },
+    {
+      "id": "P1-mutl1yxc-123c",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T08:52:43.152Z",
+      "discardedAt": "2026-10-04T09:11:54.934Z"
+    },
+    {
+      "id": "P1-mutlozzh-epr7",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:10:37.613Z",
+      "discardedAt": "2026-10-04T09:14:32.739Z"
+    },
+    {
+      "id": "P1-mutlswwc-li0t",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:13:40.236Z",
+      "discardedAt": "2026-10-04T09:17:18.585Z"
+    },
+    {
+      "id": "P1-mutlwqlu-0eip",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:16:38.706Z",
+      "discardedAt": "2026-10-04T09:32:36.262Z"
+    },
+    {
+      "id": "P1-mutm7zyy-nbsz",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:25:24.058Z",
+      "discardedAt": "2026-10-04T09:32:33.695Z"
+    },
+    {
+      "id": "P1-mutm8fde-su37",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:25:44.018Z",
+      "discardedAt": "2026-10-04T09:32:32.040Z"
+    },
+    {
+      "id": "P1-mutm9c1t-lnh2",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:26:26.369Z",
+      "discardedAt": "2026-10-04T09:34:56.705Z"
+    },
+    {
+      "id": "P1-mutmjbke-sxk8",
+      "chapter": 1,
+      "status": "discarded",
+      "createdAt": "2026-10-04T09:34:12.302Z",
+      "discardedAt": "2026-10-04T12:37:47.898Z"
+    },
+    {
+      "id": "P1-mutt0w0w-2ae5",
+      "chapter": 1,
+      "status": "applied",
+      "createdAt": "2026-10-04T12:35:49.664Z",
+      "appliedAt": "2026-10-04T12:38:07.340Z"
+    }
+  ],
+  "gateFailures": {}
+}
